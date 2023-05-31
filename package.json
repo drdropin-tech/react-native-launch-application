@@ -6,7 +6,7 @@
     "name": "lvlrsajjad",
     "email": "lvlr.xaus@gmail.com"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "launch react native application background",
   "main": "index.js",
   "scripts": {
@@ -32,6 +32,6 @@
     }
   ],
   "peerDependencies": {
-    "react-native": "^0.68.0"
+    "react-native": "*"
   }
 }
